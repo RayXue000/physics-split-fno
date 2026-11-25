@@ -35,4 +35,4 @@ training orchestration and unpublished analysis are intentionally omitted.
 The research includes conditional and negative results; no universal
 accuracy advantage or state-of-the-art claim is made by this code release.
 
-[Research overview and result scope](https://xrnb2000.github.io/)
+[Research overview and result scope](https://rayxue000.github.io/)
