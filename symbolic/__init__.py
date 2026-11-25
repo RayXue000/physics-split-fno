@@ -1,0 +1,1 @@
+"""Selected local-response diagnostics."""
